@@ -1,0 +1,38 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+\title{CAPTURANDO A EL GATO}
+
+\author{Integrantes:                                       Oswaldo Corona Perez}
+
+\begin{document}
+\maketitle
+\begin{center}
+{\Huge Base de Datos no Convencionales} 
+\end{center}
+
+\begin{abstract}
+   Proyecto para la evaluación del extraordinario en la experiencia educativa Base de Datos no Convencionales, impartida por el Dr. Adolfo Centeno Téllez en la Universidad Veracruzana dentro del programa educativo de Ingeniería de software.
+\end{abstract}
+
+\section{Visión}
+Cazando el Gato es una pagina de ropa, que se dedica a hacer la ropa que tu diseñes en tu mente, para que un diseñador profesional pueda recrear el diseño del usuario.
+
+Cada diseño que mande el usuario es distinto ingrese aparecerá en un feed con todas las imágenes que se almacenen dentro del Storage y en el collection de imágenes de Firestone, siendo el objetivo de Fakestagram compartir todas las fotos que se almacenan en una base de datos común para todos los usuarios registrados.
+
+\section{Alcance}
+En el presente proyecto de software se pretende rectificar lo aprendido en el segundo parcial y cuarto parcial de Base de Datos no Convencionales, aplicando el uso de Firebase junto con React, implementando algunas herramientas de Firebase como Firestone, Storage y la autenticación que proporciona Firebase por medio de las cuentas de Facebook y Google. Para su despliegue se ha utilizado el host que proporciona Firebase.
+
+\end{document}
